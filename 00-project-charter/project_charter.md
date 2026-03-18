@@ -3,7 +3,7 @@
 **Project Title:** Enterprise NIST CSF 2.0 Cybersecurity Program Implementation
 **Organization:** TechNova Financial Services, Inc.
 **Project Sponsor:** David Mercer, CISO
-**Project Lead:** Venkata Bharath Kasyap Devulapalli, GRC Analyst
+**Project Lead:** Venkata Bharath Devulapalli, GRC Analyst
 **Date:** January 6, 2025
 **Version:** 1.0 (Approved)
 
@@ -79,7 +79,7 @@ Following a near-miss ransomware incident in Q3 2024 and heightened scrutiny fro
 | Role | Name | Department | Allocation |
 |------|------|------------|------------|
 | CISO (Sponsor) | David Mercer | Information Security | 10% |
-| GRC Analyst / PM | Venkata Bharath Kasyap | Information Security | 100% |
+| GRC Analyst / PM | Venkata Bharath | Information Security | 100% |
 | IT Security Manager | Priya Subramaniam | Information Security | 50% |
 | SOC Manager | Angela Thompson | Information Security | 25% |
 | Compliance Manager | James Liu | Legal & Compliance | 30% |
@@ -133,7 +133,7 @@ Following a near-miss ransomware incident in Q3 2024 and heightened scrutiny fro
 | Name | Role | Signature | Date |
 |------|------|-----------|------|
 | David Mercer | CISO (Project Sponsor) | [Signed] | Jan 6, 2025 |
-| Venkata Bharath Kasyap | GRC Analyst / Project Lead | [Signed] | Jan 6, 2025 |
+| Venkata Bharath | GRC Analyst / Project Lead | [Signed] | Jan 6, 2025 |
 | James Liu | Compliance Manager | [Signed] | Jan 6, 2025 |
 | Michael Okafor | Legal Counsel | [Signed] | Jan 6, 2025 |
 
